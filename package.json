@@ -4,18 +4,19 @@
   "description": "TP Arquitetura",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olivialorena/backend-pedidos.git"
+    "url": "git+https://github.com/joaotanaca/sistemas-de-pedidos.git"
   },
   "author": "Squad new Group",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olivialorena/backend-pedidos/issues"
+    "url": "https://github.com/joaotanaca/sistemas-de-pedidos/issues"
   },
-  "homepage": "https://github.com/olivialorena/backend-pedidos#readme",
+  "homepage": "https://github.com/joaotanaca/sistemas-de-pedidos#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
